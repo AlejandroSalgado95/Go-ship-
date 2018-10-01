@@ -1,0 +1,32 @@
+default boat : http://www.southamptonartgallery.com/25729/ikea/incredible-cartoon-sailboat-pictures-iconfinder-pirate-filled-lineiconbaandar-team/
+boat 2:
+boat 3 : <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+boat 4 :
+dark Blue boat: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Sailboat">Sailboat</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+light blue boat:
+shark boat: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Shark">Shark</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+
+
+
+buoy: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Buoy">Buoy</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+seagull: <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+yellow fish: lo encontre pero no deja obtener la referencia (igual es de freepik)
+green fish : <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Pike">Pike</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+sea horse : <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Seahorse">Seahorse</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+wood hit sound : https://freesound.org/people/thomasjaunism/sounds/218460/
+sea song : https://freesound.org/people/straget/sounds/412308/
+sea song : https://freesound.org/people/InspectorJ/sounds/400632/
+jump : https://freesound.org/people/TheDweebMan/sounds/277212/
+main game song : https://freesound.org/people/Tristan_Lohengrin/sounds/343835/
+button click song: https://freesound.org/people/JustinBW/sounds/80921/
+splash sound : https://freesound.org/people/InspectorJ/sounds/352099/
+
+//possible assets
+
+blueYellow boat: <div>Icons made by <a href="https://www.flaticon.com/authors/prosymbols" title="Prosymbols">Prosymbols</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+someboat : https://image.flaticon.com/icons/svg/468/468346.svg
