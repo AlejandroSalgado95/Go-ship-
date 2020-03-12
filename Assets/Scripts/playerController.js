@@ -83,9 +83,18 @@ function FixedUpdate ()
 	
 	}
 	
-	
+
+	//var horizontalArrows : float = Input.GetAxis("Horizontal");
+
+		
 	MovePerSecond = new Vector3(HMove,0.0f,VMove) * Speed * Time.deltaTime; 
 	transform.position += MovePerSecond;
+	
+
+	/*
+	var FakeMovePerSecond : Vector3 = new Vector3(horizontalArrows,0.0f,VMove) * Speed * Time.deltaTime; 
+	transform.position += FakeMovePerSecond;
+	*/
 	
 	transform.position = new Vector3(Mathf.Clamp(transform.position.x, -15.65f, 3.38f), 
 	 								 Mathf.Clamp(transform.position.y, 7.14f, 11.19f),

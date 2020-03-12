@@ -124,42 +124,41 @@ function Update () {
 
 	scoreText.text = "Score: " + scoredPoints.ToString("f2");
 	
-	if (Time.timeSinceLevelLoad > 20.0f){
+	if (Time.timeSinceLevelLoad > 0.0f){
 	
 		spawnTime = 1.8f;
-		motorboatIncSpeed = 3.5f;
-		buoyIncSpeed = 1.5f;
-		seagullIncSpeed = 3.5f;
+		motorboatIncSpeed = -5.0f;
+		buoyIncSpeed = -5.0f;
+		seagullIncSpeed = -5.0f;
 	
-	} else if (Time.timeSinceLevelLoad > 40.0f){
+	} else if (Time.timeSinceLevelLoad > 15.0f){
 			
-			spawnTime = -1.6f;
-			motorboatIncSpeed = -4.0f;
-			buoyIncSpeed = -2.0f;
-			seagullIncSpeed = -4.0f;
+			spawnTime = 1.6f;
+			motorboatIncSpeed = -8.0f;
+			buoyIncSpeed = -8.0f;
+			seagullIncSpeed = -8.0f;
 	
-	} else if (Time.timeSinceLevelLoad > 60.0f){
+	} else if (Time.timeSinceLevelLoad > 30.0f){
 		
-			spawnTime = -1.4f;
-			motorboatIncSpeed = -4.50f;
-			buoyIncSpeed = -2.5f;
-			seagullIncSpeed = -4.5f;
+			spawnTime = 1.4f;
+			motorboatIncSpeed = -12.0f;
+			buoyIncSpeed = -12.0f;
+			seagullIncSpeed = -12.0f;
 	
 	
-	}else if (Time.timeSinceLevelLoad > 80.0f){
+	}else if (Time.timeSinceLevelLoad > 50.0f){
+
+			spawnTime = 1.2f;
+			motorboatIncSpeed = -15.0f;
+			buoyIncSpeed = -15.0f;
+			seagullIncSpeed = -15.0f;
+	
+	
+	} else if (Time.timeSinceLevelLoad > 80.0f){
 			
-			spawnTime = -0.8f;
-			motorboatIncSpeed = -5.5f;
-			buoyIncSpeed = -3.0f;
-			seagullIncSpeed = -5.5f;
-	
-	
-	} else if (Time.timeSinceLevelLoad > 100.0f){
-			
-			spawnTime = -0.6f;
-			motorboatIncSpeed = -6.5f;
-			buoyIncSpeed = -3.2f;
-			seagullIncSpeed = -6.5f;
+			motorboatIncSpeed = -20.0f;
+			buoyIncSpeed = -20.0f;
+			seagullIncSpeed = -20.0f;
 	
 	
 	}

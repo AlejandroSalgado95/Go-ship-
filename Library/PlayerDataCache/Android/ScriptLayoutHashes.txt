@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Usuario/Documents/Unity Projects 5.1.1/OfficeBoy_FinalProject/Builds/ShipRunner(Unity2018).apk
+/Users/Flimbulvtr/GoShip/GoShipV1.apk
 SceneListBegin?
 Assets/Scenes/menu.unity
 Assets/Scenes/game.unity
