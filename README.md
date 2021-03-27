@@ -1,2 +1,2 @@
 # GoShip
-Este repositorio contiene todos los archivos de mi juego "Go Ship!". El juego no se encuentra aun disponible en la playstore.
+Utiliza la version 2018.2.10 de Unity para abrir este proyecto
